@@ -2,7 +2,7 @@
 *.iml
 .ipynb_checkpoints/
 out/
-
+*.xml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
